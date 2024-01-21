@@ -42,4 +42,4 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 
 
-<a href="https://www.buymeacoffee.com/syednoman">☕ Buy me a coffee</a>
+
