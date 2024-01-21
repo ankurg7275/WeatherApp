@@ -4,9 +4,7 @@
 
   
 
-    </p>
-    
-  </p>
+ 
   
 
 ## Get Started
